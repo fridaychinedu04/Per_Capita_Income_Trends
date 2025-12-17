@@ -33,17 +33,17 @@ The analysis reveals significant disparities in per capita income among African 
 ---
 #### **RECOMMENDATION**
 To strengthen per capita income growth and improve living standards, particularly in Nigeria and similar African economies, the following policy measures are recommended:
-- **Economic Diversification**
+- **Economic Diversification**    
 Governments should reduce overreliance on a single sector (such as oil in Nigeria) by promoting diversification into agriculture, manufacturing, technology, and services. A broader economic base enhances income stability and increases per capita income growth.
-- **Population Management and Human Capital Development**
+- **Population Management and Human Capital Development**    
 Rapid population growth dilutes income gains. Policies promoting access to education, family planning, and healthcare can help stabilize population growth while improving labor productivity and long-term income levels.
-- **Investment in Education and skills**
+- **Investment in Education and skills**  
 Increased public and private investment in education, vocational training, and digital skills is essential. A skilled workforce enhances productivity, attracts foreign direct investment, and supports higher income per capita.
-- **Infrastructure Development**
+- **Infrastructure Development**  
 Improving infrastructure, particularly electricity, transportation, water resources, and digital connectivity, reduces production costs and boosts economic efficiency, leading to higher incomes across sectors.
-- **Support for Small and Medium Enterprises (SMEs)**
+- **Support for Small and Medium Enterprises (SMEs)**  
 SMEs are major employers in African economies. Access to affordable credit, business training, and market linkages can significantly improve income generation and per capita income growth.
-- **Strengthening Governance and Macroeconomic Stability**
+- **Strengthening Governance and Macroeconomic Stability**  
 Sound fiscal management, anti-corruption measures, and stable macroeconomic policies increase investor confidence and ensure sustainable economic growth that translates into higher per capita income.
 
 ---
